@@ -31,7 +31,7 @@
     "roll2ndDigit": {
       "fieldType": "QTYPE_INT",
       "origin": [
-        126,
+        127,
         307
       ],
       "bubblesGap": 48.53,
@@ -50,7 +50,7 @@
       ],
       "direction": "vertical",
       "origin": [
-        170,
+        171,
         307
       ],
       "bubblesGap": 48.60,
@@ -62,7 +62,7 @@
     "Roll": {
       "fieldType": "QTYPE_INT",
       "origin": [
-        214,
+        215,
         307
       ],
       "bubblesGap": 48.53,
@@ -74,7 +74,7 @@
     "Marks": {
       "fieldType": "QTYPE_INT",
       "origin": [
-        568,
+        569,
         307
       ],
       "bubblesGap": 48.53,
