@@ -31,8 +31,8 @@
     "roll2ndDigit": {
       "fieldType": "QTYPE_INT",
       "origin": [
-        126.65,
-        307.43
+        126,
+        307
       ],
       "bubblesGap": 48.53,
       "labelsGap": 0,
@@ -50,8 +50,8 @@
       ],
       "direction": "vertical",
       "origin": [
-        170.60,
-        307.43
+        170,
+        307
       ],
       "bubblesGap": 48.60,
       "labelsGap": 0,
@@ -62,8 +62,8 @@
     "Roll": {
       "fieldType": "QTYPE_INT",
       "origin": [
-        214.60,
-        307.43
+        214,
+        307
       ],
       "bubblesGap": 48.53,
       "labelsGap": 43.96,
@@ -74,8 +74,8 @@
     "Marks": {
       "fieldType": "QTYPE_INT",
       "origin": [
-        568.59,
-        307.43
+        568,
+        307
       ],
       "bubblesGap": 48.53,
       "labelsGap": 43.96,
