@@ -1,7 +1,7 @@
 {
   "pageDimensions": [
-    794,
-    1123
+    1414,
+    2000
   ],
   "bubbleDimensions": [
     34,
@@ -12,7 +12,7 @@
       "name": "CropOnMarkers",
       "options": {
         "relativePath": "omr_marker.jpg",
-        "sheetToMarkerWidthRatio": 20
+        "sheetToMarkerWidthRatio": 25
       }
     }
   ],
@@ -34,7 +34,7 @@
         127,
         307
       ],
-      "bubblesGap": 48.53,
+      "bubblesGap": 48,
       "labelsGap": 0,
       "fieldLabels": [
         "roll2ndDigit"
@@ -53,7 +53,7 @@
         171,
         307
       ],
-      "bubblesGap": 48.60,
+      "bubblesGap": 48,
       "labelsGap": 0,
       "fieldLabels": [
         "Medium"
@@ -65,8 +65,8 @@
         215,
         307
       ],
-      "bubblesGap": 48.53,
-      "labelsGap": 43.96,
+      "bubblesGap": 48,
+      "labelsGap": 44,
       "fieldLabels": [
         "roll1..9"
       ]
@@ -77,8 +77,8 @@
         569,
         307
       ],
-      "bubblesGap": 48.53,
-      "labelsGap": 43.96,
+      "bubblesGap": 48,
+      "labelsGap": 44,
       "fieldLabels": [
         "marks3Digit"
       ]
